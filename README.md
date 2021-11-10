@@ -6,7 +6,7 @@
 
 ![公众号](https://luckly007.oss-cn-beijing.aliyuncs.com/image/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
-服务器的那些事儿
+公众号首发服务器的那些事儿
 
 [服务器的作用有哪些，此文带你来了解](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247486445&idx=1&sn=486bfa87ee7d693bab4907a40771c193&chksm=faf0288acd87a19c0efca3745fafeff79e481e7c767a982a95d25a8ffa1ec0464c7d06b6bd51&scene=21#wechat_redirect)
 
@@ -21,3 +21,13 @@
 [重置Windows服务器的远程连接密码](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247487262&idx=4&sn=a3cdc638d977bea38176027d682c763c&chksm=faf02c79cd87a56f6bb8f3b64a913482ac3736c8eba6df61139b686d82cf970e6412aec3b1d5#rd)
 
 [从0-1教你利用服务器做属于自己的个人博客](http://mp.weixin.qq.com/s?__biz=MzUzNjc1MzY3Mg==&mid=2247487186&idx=1&sn=637083d738e3ae0fa1fb896af25713f1&chksm=faf02db5cd87a4a3a3148c0baa7ca45c0bff98f66cf60e9f50fd81323782cf6b3900ce8a06e5#rd)
+
+
+
+云服务器 ECS文档
+
+https://help.aliyun.com/document_detail/108490.html?spm=5176.21213303.8115314850.4.5e9d3edaFNmaGk&scm=20140722.S_card@@%E5%8D%A1%E7%89%87@@2040._.ID_card@@%E5%8D%A1%E7%89%87@@2040-RL_%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%20ECS-OR_ser-V_2-P0_0#g6r
+
+轻量应用服务器
+
+https://help.aliyun.com/product/58607.html?spm=5176.21213303.7413928100.5.7a7f3edaIAanX1&scm=20140722.S_card@@%E5%8D%A1%E7%89%87@@1690._.ID_card@@%E5%8D%A1%E7%89%87@@1690-RL_%E8%BD%BB%E9%87%8F%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8-OR_ser-V_2-P0_0

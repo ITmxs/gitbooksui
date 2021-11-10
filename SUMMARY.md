@@ -16,16 +16,18 @@
 
 
 - [阿里云安全组的那些事儿](connent/阿里云安全组的那些事儿.md)
-
 - [从0-1教你利用服务器做属于自己的个人博客](connent/部署博客.md)
-
 - [部署博客](connent/部署博客.md)
+- [画图工具推荐](connent/画图工具推荐.md)
+- [Typora+PicGo + Gitee(码云)你的自建博客的写作利器](connent/Typora+PicGo + Gitee(码云)你的自建博客的写作利器.md)
 
-- **Typora+PicGo + Gitee(****码云)你的自建博客的写作利器
 
-  
 
-  
 
-  
+
+
+
+
+
+
 
