@@ -4,8 +4,6 @@
 
 - [作者介绍](connent/作者介绍.md)
 
-- [FVM 一秒切换VSCode 的Flutter版本](connent/vscode配置fvm.md)
-
 - [远程连接Windows服务器](connent/远程连接Windows服务器.md)
 
 - [重置服务器密码](connent/重置服务器密码.md)
