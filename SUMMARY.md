@@ -19,6 +19,7 @@
 - [画图工具推荐](connent/画图工具推荐.md)
 - [Typora+PicGo + Gitee(码云)你的自建博客的写作利器](connent/Typora+PicGo + Gitee(码云)你的自建博客的写作利器.md)
 - [翻车现场](connent/翻车现场.md)
+- [【博客搭建】Typecho我的博客搭建，快速安装，超小白](connent/Typecho我的博客搭建.md)
 
 
 
@@ -30,3 +31,8 @@
 
 
 
+ljj
+
+
+
+KK
