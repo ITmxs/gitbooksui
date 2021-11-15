@@ -48,6 +48,12 @@ git config –global user.email ‘xxx@xx.xxx’
 ssh-keygen -t rsa -C ‘上面的邮箱’
 ```
 
+
+
+
+
+![image-20211115230244617](https://luckly007.oss-cn-beijing.aliyuncs.com/imagesimage-20211115230244617.png)
+
 代码参数含义：
 
 -t 指定密钥类型，默认是 rsa ，可以省略。
