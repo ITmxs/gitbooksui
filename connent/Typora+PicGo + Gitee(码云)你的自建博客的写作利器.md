@@ -1,4 +1,4 @@
-**Typora+PicGo + Gitee(****码云)你的自建博客的写作利器**
+ **Typora+PicGo + Gitee(****码云)你的自建博客的写作利器**
 
 
 
