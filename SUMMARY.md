@@ -17,6 +17,15 @@
 - [【博客搭建】Typecho我的博客搭建，快速安装，超小白](connent/Typecho我的博客搭建.md)
 - [画图工具推荐](connent/画图工具推荐.md)
 - [视频集合](connent/视频集合.md)
+- [typora的这几款主题惊艳到我了](connent/typora的主题.md)
+- [gva版本更新](connent/gva版本更新.md)
+- [电子书资源网站](connent/电子书资源网站.md)
+- [typora的这几款主题惊艳到我了](connent/typora的主题.md)
+- [typora的这几款主题惊艳到我了](connent/typora的主题.md)
+- [typora的这几款主题惊艳到我了](connent/typora的主题.md)
+- [typora的这几款主题惊艳到我了](connent/typora的主题.md)
+- [typora的这几款主题惊艳到我了](connent/typora的主题.md)
+- [typora的这几款主题惊艳到我了](connent/typora的主题.md)
 
 
 
